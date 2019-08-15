@@ -17,5 +17,5 @@ This app is about a burger logger where the page is loaded with the details are 
 **MySQL, Node, Express, Handlebars,ORM, jQuery, JavaScript, HTML, CSS, Bootstrap**
 
 ### Deployed 
-**Github:** https://github.com/tejsubedi/burger
-**Heroku:** https://burger-tej.herokuapp.com/
+* **Github:** https://github.com/tejsubedi/burger
+* **Heroku:** https://burger-tej.herokuapp.com/
