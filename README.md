@@ -18,4 +18,4 @@ This app is about a burger logger where the page is loaded with the details are 
 
 ### Deployed 
 * **Github:** https://github.com/tejsubedi/burger
-* **Heroku:** https://burger-tej.herokuapp.com/
+* **Heroku:** https://serene-mountain-94626.herokuapp.com/
